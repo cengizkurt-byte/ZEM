@@ -1,0 +1,6 @@
+{
+  "name": "En Çok Olan Rengi Bul!",
+  "description": "İlkokul öğrencileri için görsel algı, dikkat ve hızlı karar verme becerilerini geliştiren eğitici renk oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
